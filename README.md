@@ -182,7 +182,7 @@ storage/app/data/
 > localmente (se recomienda guardarlas en una carpeta `docs/` o `screenshots/`
 > del repositorio y enlazarlas a continuación).
 
-- **Listado de lugares turísticos:** `![alt text](image.png)`
+- **Listado de lugares turísticos:** ![alt text](image.png)
 - **Detalle de un lugar:** `![alt text](image-1.png)`
 - **Formulario de contacto:** `![alt text](image-3.png)`
 - **Confirmación de envío:** `![alt text](image-4.png)`
