@@ -1,0 +1,176 @@
+{
+  "lugares": [
+    {
+      "id": 1,
+      "titulo": "Volcán de Santa Ana (Ilamatepec)",
+      "departamento": "Santa Ana",
+      "categoria": "Naturaleza",
+      "precio_entrada": "$6.00 nacionales / $10.00 extranjeros",
+      "descripcion": "El volcán activo más alto de El Salvador, con una laguna cratérica de color turquesa. La caminata hasta la cima dura aproximadamente 2 horas e incluye guía obligatorio.",
+      "horario": "Sábados, domingos y feriados, 7:00 a.m. - 1:00 p.m.",
+      "clima": "Fresco, se recomienda ropa abrigadora y calzado de senderismo",
+      "como_llegar": "Desde San Salvador, tomar la carretera hacia Santa Ana y luego hacia el Parque Nacional Los Volcanes",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Ana%20-%20El%20Salvador%20%2850899359306%29.jpg?width=900",
+      "galeria": [
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Ana%20-%20El%20Salvador%20%2850899359306%29.jpg?width=900",
+          "descripcion": "El cráter humeante visto de cerca durante el ascenso"
+        },
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Cerro%20Verde%20from%20Santa%20Ana%20Volcano.jpg?width=900",
+          "descripcion": "Vista desde la cima hacia el volcán Cerro Verde"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Lago de Coatepeque",
+      "departamento": "Santa Ana",
+      "categoria": "Naturaleza",
+      "precio_entrada": "Entrada gratuita, restaurantes con costo variable",
+      "descripcion": "Lago cratérico de aguas azul turquesa rodeado de montañas y restaurantes con vista al agua. Ideal para actividades acuáticas como kayak, jet ski y paseos en lancha.",
+      "horario": "Todos los días, 6:00 a.m. - 6:00 p.m.",
+      "clima": "Cálido, clima de tierra templada",
+      "como_llegar": "35 km al sur de Santa Ana por la carretera CA-8",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Coatepeque%20Lake.JPG?width=900",
+      "galeria": [
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Coatepeque%20Lake.JPG?width=900",
+          "descripcion": "El característico azul turquesa del lago cratérico"
+        },
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Lago%20de%20Coatepeque%20desde%20Volcan%20Santa%20Ana%20-%20panoramio.jpg?width=900",
+          "descripcion": "Vista del lago desde el volcán de Santa Ana"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Playa El Tunco",
+      "departamento": "La Libertad",
+      "categoria": "Playa",
+      "precio_entrada": "Entrada gratuita",
+      "descripcion": "Playa de arena volcánica reconocida internacionalmente por sus olas ideales para surf. Cuenta con hostales, restaurantes y una animada vida nocturna.",
+      "horario": "Acceso todos los días, las 24 horas",
+      "clima": "Cálido tropical, ideal usar protector solar",
+      "como_llegar": "Km 42 carretera Litoral, municipio de Tamanique",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Surfistas%20en%20El%20Tunco.jpg?width=900",
+      "galeria": [
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Surfistas%20en%20El%20Tunco.jpg?width=900",
+          "descripcion": "Surfistas aprovechando las olas de la playa"
+        },
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Surfista%20en%20El%20Tunco.jpg?width=900",
+          "descripcion": "Una de las rompientes más buscadas por surfistas"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Ciudad Colonial de Suchitoto",
+      "departamento": "Cuscatlán",
+      "categoria": "Cultura",
+      "precio_entrada": "Entrada gratuita, museos desde $1.00",
+      "descripcion": "Pueblo colonial con calles empedradas, iglesia histórica, galerías de arte y vista al Embalse Cerrón Grande. Considerado uno de los pueblos más pintorescos del país.",
+      "horario": "Todos los días, horarios varían según el sitio",
+      "clima": "Templado",
+      "como_llegar": "47 km al norte de San Salvador por la carretera Troncal del Norte",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Iglesia%20De%20Suchitoto..JPG?width=900",
+      "galeria": [
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Iglesia%20De%20Suchitoto..JPG?width=900",
+          "descripcion": "La icónica iglesia colonial de Santa Lucía"
+        },
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Calle%20empedrada%20de%20Suchitoto.jpg?width=900",
+          "descripcion": "Calles empedradas típicas del casco colonial"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Sitio Arqueológico Joya de Cerén",
+      "departamento": "La Libertad",
+      "categoria": "Arqueología",
+      "precio_entrada": "$3.00 nacionales / $10.00 extranjeros",
+      "descripcion": "Declarado Patrimonio de la Humanidad por la UNESCO, conocido como la 'Pompeya de América' por conservar una aldea maya sepultada por ceniza volcánica hace más de 1,400 años.",
+      "horario": "Martes a domingo, 9:00 a.m. - 4:00 p.m.",
+      "clima": "Cálido",
+      "como_llegar": "Km 35 carretera hacia San Juan Opico",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/ES%20Joya%20Ceren%2005%202012%20Panorama%20Area%201%201498.JPG?width=900",
+      "galeria": [
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/ES%20Joya%20Ceren%2005%202012%20Panorama%20Area%201%201498.JPG?width=900",
+          "descripcion": "Vista panorámica de las estructuras excavadas"
+        },
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/ES%20Joya%20Ceren%20Museum%2005%202012%201520.JPG?width=900",
+          "descripcion": "Piezas originales exhibidas en el museo de sitio"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "El Boquerón",
+      "departamento": "San Salvador",
+      "categoria": "Naturaleza",
+      "precio_entrada": "$1.00 nacionales / $3.00 extranjeros",
+      "descripcion": "Cráter del volcán de San Salvador con senderos guiados, miradores y un pequeño museo geológico. Ofrece una vista panorámica de la capital.",
+      "horario": "Martes a domingo, 8:00 a.m. - 4:30 p.m.",
+      "clima": "Fresco, recomendable llevar chumpa",
+      "como_llegar": "Carretera hacia Los Chorros, 12 km desde San Salvador",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/EL%20BOQUERON%20NATIONAL%20PARK%2C%20EL%20SALVADOR.jpg?width=900",
+      "galeria": [
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/EL%20BOQUERON%20NATIONAL%20PARK%2C%20EL%20SALVADOR.jpg?width=900",
+          "descripcion": "El cráter principal visto desde el mirador"
+        },
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Paisaje%20el%20Boqueron.jpg?width=900",
+          "descripcion": "Senderos rodeados de vegetación de montaña"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "Ruta de las Flores",
+      "departamento": "Ahuachapán / Sonsonate",
+      "categoria": "Cultura",
+      "precio_entrada": "Entrada gratuita, actividades con costo variable",
+      "descripcion": "Recorrido turístico por pueblos como Juayúa, Apaneca, Ataco y Nahuizalco, conocidos por su arte, café, gastronomía y ferias gastronómicas de fin de semana.",
+      "horario": "Ferias los fines de semana, comercios con horario variable",
+      "clima": "Templado a fresco, zona montañosa",
+      "como_llegar": "Carretera CA-8 entre Sonsonate y Ahuachapán",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Fachada%20de%20Casa%20Antigua%20Ataco.JPG?width=900",
+      "galeria": [
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Fachada%20de%20Casa%20Antigua%20Ataco.JPG?width=900",
+          "descripcion": "Fachadas coloridas típicas de Concepción de Ataco"
+        },
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/Concepci%C3%B3n%20de%20Ataco%2C%20El%20Salvador%20%282011%29%20-%20panoramio.jpg?width=900",
+          "descripcion": "Calles y arquitectura del pueblo de Ataco"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "Playa El Zonte",
+      "departamento": "La Libertad",
+      "categoria": "Playa",
+      "precio_entrada": "Entrada gratuita",
+      "descripcion": "Conocida como 'Bitcoin Beach', combina surf de calidad, ambiente relajado y comunidad local, siendo un referente de innovación económica en El Salvador.",
+      "horario": "Acceso todos los días, las 24 horas",
+      "clima": "Cálido tropical",
+      "como_llegar": "Km 51 carretera Litoral, municipio de Chiltiupán",
+      "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Zonte%20%2801.2011%29%20-%20panoramio.jpg?width=900",
+      "galeria": [
+        {
+          "imagen": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Zonte%20%2801.2011%29%20-%20panoramio.jpg?width=900",
+          "descripcion": "La playa de arena oscura conocida como Bitcoin Beach"
+        }
+      ]
+    }
+  ]
+}
