@@ -183,29 +183,8 @@ storage/app/data/
 > del repositorio y enlazarlas a continuación).
 
 - **Listado de lugares turísticos:** ![alt text](image.png)
-- **Detalle de un lugar:** `![alt text](image-1.png)`
-- **Formulario de contacto:** `![alt text](image-3.png)`
-- **Confirmación de envío:** `![alt text](image-4.png)`
-- **Confirmacion de recepcion:** `![alt text](image-5.png)`
+- **Detalle de un lugar:** ![alt text](image-1.png)
+- **Formulario de contacto:** ![alt text](image-3.png)
+- **Confirmación de envío:** ![alt text](image-4.png)
+- **Confirmacion de recepcion:** ![alt text](image-5.png)
 
----
-
-## Datos de prueba
-
-Los datos de prueba se encuentran en:
-
-- `storage/app/data/lugares.json` — 8 destinos turísticos de El Salvador
-  (Volcán de Santa Ana, Lago de Coatepeque, Playa El Tunco, Suchitoto,
-  Joya de Cerén, El Boquerón, Ruta de las Flores y Playa El Zonte).
-- `storage/app/data/solicitudes.json` — inicia vacío y se completa
-  automáticamente cada vez que alguien envía el formulario de contacto.
-
----
-
-## Objetivo académico
-
-Este proyecto fue desarrollado como actividad evaluada para demostrar la
-comprensión del patrón MVC en Laravel: cómo una petición HTTP recorre el
-enrutador, el controlador y el modelo antes de convertirse en una vista
-renderizada, y cómo los datos fluyen en ambas direcciones entre las capas
-de presentación y lógica de negocio.
